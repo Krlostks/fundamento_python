@@ -9,6 +9,9 @@ print(my_String.lower())
 print(my_String.capitalize())
 #Eliminar espacios inicio fin
 print(my_String.strip())
+my_String.capitalize
+
+
 
 #Indexing and Slicing
 my_string = "hola 3C DSM"
